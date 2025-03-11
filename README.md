@@ -6,7 +6,7 @@
 - Já trabalhei com VB e C# .NET, realizando consultas em banco de dados SQL, dando manutenção para sistema da secretaria escolar.
 - Criei um sistema em PHP, que consumia algumas tabelas MySQL, para controle das ligações atendidas e horas logadas em um call center.
 - Já criei automações com AutoHotKey e AutoIT e VBS para facilitar o preenchimento e abertura de chamados, também recebidos via email, e tarefas repetitivas, como extração de dados e criação de dashs de resultados.
-- 💾 Por hobby, gosto de desenvolver projetos com Arduino e Python 🐍 , construindo relógios ⌚, protótipos de impressora 3D, HomeAssistant 🏠 com o Raspberry Pi 🍓. modelagem 3D com Blender.
+- 💾 Por hobby, gosto de desenvolver projetos com Arduino e Python 🐍 , construindo relógios e criando apps para Amazfit Zepp ⌚, protótipos de impressora 3D, HomeAssistant 🏠 com o Raspberry Pi 🍓. modelagem 3D com Blender.
 - E agora decidi aprender JAVA, veja meu GIT [aqui](https://github.com/gabrielchristino/CursoJava)
 
 <div align="center">
